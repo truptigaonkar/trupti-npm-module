@@ -22,5 +22,8 @@
   },
   "devDependencies": {
     "prettier": "^1.15.3"
-  }
+  },
+  "bin": {
+    "trupti-npm-module": "./index.js"
+    }
 }
